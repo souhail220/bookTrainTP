@@ -1,0 +1,7 @@
+com\mycompany\resttp2\Entities\BookTrain.class
+com\mycompany\resttp2\JakartaRestConfiguration.class
+com\mycompany\resttp2\TrainResource.class
+com\mycompany\resttp2\Entities\TrainListWrapper.class
+com\mycompany\resttp2\Services\BookTrainBD.class
+com\mycompany\resttp2\Entities\Train.class
+com\mycompany\resttp2\resources\JakartaEE8Resource.class
